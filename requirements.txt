@@ -1,4 +1,2 @@
-tensorflow
-opencv-python
-flask
-numpy
+keras
+
